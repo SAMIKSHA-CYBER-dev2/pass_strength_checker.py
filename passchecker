@@ -1,0 +1,8 @@
+password = input("🔑 Enter your password: ")
+
+if len(password) < 8:
+    print(" 🙂 Beginner Password")
+elif password.isalpha() or password.isdigit():
+    print(" 📈 Improving Password")
+else:
+    print(" 💎 Elite Password")
