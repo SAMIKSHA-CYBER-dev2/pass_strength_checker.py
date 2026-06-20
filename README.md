@@ -1,7 +1,7 @@
 # pass_strength_checker.py
 A Python-based Password Strength Checker that analyzes passwords and determines whether they are Weak, Medium, or Strong...✨
 
-🔐 Password Strength Checker!!... 
+🔐 Password Strength Checker!!!!... 
 
  A Python-based Password Strength Checker that determines whether a password is Weak, Medium, or Strong.... ✨
 
